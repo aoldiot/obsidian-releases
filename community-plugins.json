@@ -60219,5 +60219,12 @@
     "author": "蜗牛",
     "description": "Render .jps jianpu scripts into sheet music inside your notes, with playback, and edit scores in a full built-in iJipu editor. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "snailhome/obsidian-ijipu"
+  },
+  {
+    "id": "margin-annotations",
+    "name": "Margin Annotations",
+    "author": "hex",
+    "description": "Add inline annotations in the note source, with a Word-style sidebar for replies, resolving and timestamps.",
+    "repo": "aoldiot/margin-annotations"
   }
 ]
